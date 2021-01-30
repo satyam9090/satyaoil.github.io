@@ -1,4 +1,4 @@
-![Satya Oil Field](https://satyaoil.com/assets/img/PNGTransparent2.png "Satya Oil Field")
+<img src="https://satyaoil.com/assets/img/PNGTransparent2.png" width="100", alt = "Satya Oil Field Logo">
 # Satya Oil Field Services Private Limited
 *We value our partnership*
 ##### SERVICES
