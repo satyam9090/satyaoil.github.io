@@ -1,4 +1,5 @@
-<img src="https://satyaoil.com/assets/img/PNGTransparent2.png" width="100", alt = "Satya Oil Field Logo">
+<img src="assets/img/PNGTransparent2.png" width = "200">
+
 # Satya Oil Field Services Private Limited
 *We value our partnership*
 ##### SERVICES
